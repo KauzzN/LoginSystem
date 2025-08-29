@@ -1,6 +1,6 @@
 # LoginSystem
 
-Sistema de gerenciamento de login em Python com armazenamento em JSON.
+Sistema de gerenciamento de login em Python com armazenamento em json para aprendizado e aperfeiçoamento de habilidades em python, POO e futuramente, banco de dados.
 
 ---
 
@@ -24,8 +24,8 @@ Sistema de gerenciamento de login em Python com armazenamento em JSON.
 
 LoginSystem
 ├─ LoginSystem
-  ├─ main.py
-  |─ LoginUtils.py
+   ├─ main.py
+   |─ LoginUtils.py
 ├─ .gitignore
 ├─ DataBase.json
 
