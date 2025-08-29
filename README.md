@@ -37,13 +37,13 @@ LoginSystem
 ## 🔹 Como Usar
 
 1. Clone o repositório:
-```bash
+``bash
 git clone https://github.com/SeuUsuario/LoginSystem.git
   
 2. Entre na pasta do projeto:
-```bash
+``bash
 cd LoginSystem
 
 3. Execute o programa:
-```bash
+``bash
 python main.py
